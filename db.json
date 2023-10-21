@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "login": "root",
+      "hash": "65b19b966f0c76bb600d73154e9c66dee883f924"
+    },
+    {
+      "login": "admin",
+      "hash": "20e0cbcd3cf233b748ebc24193b9afa7bfd8636b"
+    }
+  ],
+  "todos": [
+    {
+      "id": 2,
+      "hash": "65b19b966f0c76bb600d73154e9c66dee883f924",
+      "text": "hello there",
+      "done": true
+    },
+    {
+      "id": 3,
+      "hash": "65b19b966f0c76bb600d73154e9c66dee883f924",
+      "text": "joj",
+      "done": true
+    },
+    {
+      "id": 5,
+      "hash": "20e0cbcd3cf233b748ebc24193b9afa7bfd8636b",
+      "text": "note #123456",
+      "done": true
+    },
+    {
+      "id": 6,
+      "hash": "20e0cbcd3cf233b748ebc24193b9afa7bfd8636b",
+      "text": "dfghjkhgfdsa",
+      "done": false
+    },
+    {
+      "id": 7,
+      "hash": "20e0cbcd3cf233b748ebc24193b9afa7bfd8636b",
+      "text": "bruh",
+      "done": false
+    },
+    {
+      "id": 8,
+      "hash": "20e0cbcd3cf233b748ebc24193b9afa7bfd8636b",
+      "text": "newman",
+      "done": false
+    },
+    {
+      "id": 9704,
+      "hash": "65b19b966f0c76bb600d73154e9c66dee883f924",
+      "text": "skdfposdfkps",
+      "done": false
+    }
+  ]
+}
